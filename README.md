@@ -1,4 +1,4 @@
-# 🎬 Netflix Landing Page Clone
+# 🎬 Netflix-clone Landing Page Clone
 
 A responsive, pixel-perfect front-end clone of the **Netflix India** landing page. Built purely with semantic HTML5, modern CSS3 layout techniques, and lightweight vanilla JavaScript for interactive components.
 
