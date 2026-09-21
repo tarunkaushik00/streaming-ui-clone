@@ -7,7 +7,7 @@ A responsive, pixel-perfect front-end clone of the **Netflix India** landing pag
 ## 🚀 Live Demo
 
 Check out the live website here:  
-👉 **[Live Preview Link](https://<https://tarunkaushik09.github.io/netflix-ui-clone/>.github.io/<netflix-ui-clone>/)**  
+👉 **[Live Preview Link](https://<https://tarunkaushik00.github.io/netflix-ui-clone/>.github.io/<netflix-ui-clone>/)**  
 
 ---
 
